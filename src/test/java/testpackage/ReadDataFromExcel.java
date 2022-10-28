@@ -17,7 +17,7 @@ public class ReadDataFromExcel {
 	public static WebDriver driver;
 	public static void main(String[] args) throws InterruptedException {
 		
-		String User1name = null;
+		String Username = null;
         String Password = null;
         // System Property for Chrome Driver   
      System.setProperty("webdriver.chrome.driver", "D:\\Deepak\\Drivers\\ChromeDriver\\chromedriver.exe");  
